@@ -7,7 +7,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:time_tracker_flutter_course/main.dart';
+import 'package:timetrackerfluttercourse/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

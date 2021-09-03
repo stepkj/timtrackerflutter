@@ -206,13 +206,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "time_tracker_flutter_course",
+      "name": "timetrackerfluttercourse",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.5"
     }
   ],
-  "generated": "2021-08-30T06:07:11.334645Z",
+  "generated": "2021-09-03T18:51:01.787179Z",
   "generator": "pub",
   "generatorVersion": "2.13.3"
 }
